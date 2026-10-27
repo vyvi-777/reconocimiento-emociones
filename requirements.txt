@@ -1,0 +1,12 @@
+opencv-python<5
+deepface
+tf-keras
+werkzeug
+flask
+flask-cors
+gunicorn
+fire
+tqdm
+gdown
+requests
+pandas
